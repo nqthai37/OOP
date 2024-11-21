@@ -15,6 +15,7 @@ public:
     ~Paragraph();
     string GetPar() const;
     void SetPar(string s);
+    // vector<string> splitToSen() const;
     int countWords() const;
     Paragraph getFile(const string name);
 };
