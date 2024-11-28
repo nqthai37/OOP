@@ -1,4 +1,4 @@
-#include "Ex2.h"
+#include "SP2.h"
 
 int main()
 {

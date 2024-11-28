@@ -1,11 +1,4 @@
-// Cài đặt lớp SP1 gồm có :
-// q Dữ liệu : phần thực, phần ảo
-// q Phương thức : nhập, in
-// q Chương trình chính : nhập 2 sp ab, in ra a, b
-// n Cài đặt lớp SP2 kế thừa SP1 và bổ sung :
-// q Dữ liệu :
-// q Phương thức : toán tử >> , << , phép - , *, / , phép so sánh : == , != , > , >= , < , <= ,
-//     ++, --
+
 #pragma once
 #include <iostream>
 using namespace std;
