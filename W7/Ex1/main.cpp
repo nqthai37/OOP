@@ -1,4 +1,4 @@
-#include "Ex1.h"
+#include "PS2.h"
 
 int main()
 {
